@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Toronto Honey",
-    "currentPage": "HOME",
+    "currentPage": "Gallery",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -242,7 +242,7 @@
           },
           "title": "WELCOME TO TORONTO HONEY",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">ENTER<br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"Gallery\" data-toolbar=\"-mbrBtnMove\">ENTER<br></a> "
         }
       ]
     }
