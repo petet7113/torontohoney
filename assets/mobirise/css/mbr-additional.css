@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 #ext_menu-3 .mbr-brand__name {
   font-size: 16px;
 }
@@ -22,6 +24,42 @@
 #msg-box4-4 .mbr-article {
   color: #ffffff;
 }
+#msg-box4-9 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-9 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-9 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-b .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-b .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-b .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-c .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-c .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-c .mbr-article {
+  color: #ffffff;
+}
 #ext_menu-1 .mbr-brand__name {
   font-size: 16px;
 }
@@ -37,6 +75,7 @@
 #ext_menu-1 .mbr-brand__name a {
   font-size: 18px;
 }
+
 #ext_menu-7 .mbr-brand__name {
   font-size: 16px;
 }
@@ -50,5 +89,42 @@
   color: #ffffff;
 }
 #ext_menu-7 .mbr-brand__name a {
+  font-size: 18px;
+}
+#header3-d H3 {
+  color: #de136e;
+}
+#content1-e P {
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #000000;
+  font-size: 19px;
+}
+#content1-f P {
+  color: #de136e;
+}
+
+
+#header3-k H3 {
+  text-align: center;
+  font-family: 'Arimo', sans-serif;
+}
+#content1-j P {
+  font-family: 'Arimo', sans-serif;
+  font-size: 16px;
+  color: #252525;
+}
+#ext_menu-g .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-g.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-g .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-g .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-g .mbr-brand__name a {
   font-size: 18px;
 }
