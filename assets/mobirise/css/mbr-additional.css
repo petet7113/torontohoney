@@ -14,38 +14,26 @@
 #ext_menu-3 .mbr-brand__name a {
   font-size: 18px;
 }
-#features1-q .mbr-section__col .mbr-header__text {
-  color: #f7da64;
-}
-#features1-q P {
-  color: #f50696;
-}
 #features1-s P {
   color: #f7da64;
+  text-align: center;
 }
 #features1-s .mbr-section__col .mbr-header__text {
   color: #f50696;
 }
-
-#ext_menu-1 .mbr-brand__name {
-  font-size: 16px;
+#features1-t .mbr-section__col .mbr-header__text {
+  color: #f7da64;
 }
-#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+#features1-t P {
+  text-align: center;
+  color: #f50696;
 }
-#ext_menu-1 .mbr-navbar__section {
-  background: #000000;
+#features1-u .mbr-section__col .mbr-header__text {
+  color: #f50696;
 }
-#ext_menu-1 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#ext_menu-1 .mbr-brand__name a {
-  font-size: 18px;
-}
-#header4-2 H1 {
-  color: #ffffff;
-  font-family: 'Arimo', sans-serif;
-  font-size: 46px;
+#features1-u P {
+  color: #f7da64;
+  text-align: center;
 }
 
 
@@ -129,4 +117,57 @@
 }
 #form1-i .mbr-header__text {
   color: #de136e;
+}
+#footer1-n P {
+  color: #ffffff;
+  text-align: center;
+}
+
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1 .mbr-brand__name a {
+  font-size: 18px;
+}
+#header4-2 H1 {
+  color: #ffffff;
+  font-family: 'Arimo', sans-serif;
+  font-size: 46px;
+}
+#footer1-n P {
+  color: #ffffff;
+  text-align: center;
+}
+#ext_menu-v .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-v.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-v .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-v .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-v .mbr-brand__name a {
+  font-size: 18px;
+}
+#msg-box4-w .mbr-header__text {
+  color: #f7da64;
+}
+#msg-box4-w .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-w .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-w .mbr-article P {
+  color: #f50696;
 }
