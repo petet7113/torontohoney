@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Toronto Honey",
-    "currentPage": "Crystal",
+    "currentPage": "Nicole",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 35,
+    "uniqCompNum": 63,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -124,7 +124,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q5-600x897.png",
+              "src": "@PROJECT_PATH@/assets/images/a-600x818.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -142,13 +142,13 @@
               "size": 0
             }
           },
-          "title1": "CRYSTAL",
+          "title1": "ANNABELL",
           "caption1": "DUO | YES<br>----------------------------<br> TRAVEL  | PLEASE INQUIRE<br>",
           "button1": "<a data-app-btn=\"true\" href=\"Crystal\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/t4-600x888.png",
+              "src": "@PROJECT_PATH@/assets/images/b-600x819.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -168,11 +168,11 @@
           },
           "title2": "<span style=\"font-family: inherit; line-height: 1.1em;\">ANGELA</span><span style=\"font-family: inherit; line-height: 1.1em;\"><br></span>",
           "caption2": "DUO | YES<br>----------------------------<br> TRAVEL  | PLEASE INQUIRE<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"ANGELA\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/o2-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/d-600x856.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -190,13 +190,13 @@
               "size": 0
             }
           },
-          "title3": "PHEOBIE",
+          "title3": "MIA",
           "caption3": "DUO | YES<br>----------------------------<br> TRAVEL  | PLEASE INQUIRE<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Mia\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/h3-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/c-600x852.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -214,9 +214,9 @@
               "size": 0
             }
           },
-          "title4": "RACHEL",
+          "title4": "REENA",
           "caption4": "DUO | YES<br>----------------------------<br> TRAVEL  | PLEASE INQUIRE<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Reena\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -293,7 +293,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/l4-600x907.jpg",
+              "src": "@PROJECT_PATH@/assets/images/e-600x779.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -311,13 +311,13 @@
               "size": 0
             }
           },
-          "title1": "BRIDGETTE",
+          "title1": "KATHY",
           "caption1": "DUO | YES<br>----------------------------<br> TRAVEL  | PLEASE INQUIRE<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Kathy\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s1-600x898.png",
+              "src": "@PROJECT_PATH@/assets/images/f-600x785.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -335,13 +335,13 @@
               "size": 0
             }
           },
-          "title2": "YUNA",
+          "title2": "LEAH",
           "caption2": "EADUO | YES<br>----------------------------<br> TRAVEL  | PLEASE INQUIRE<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Leah\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/r3-600x908.png",
+              "src": "@PROJECT_PATH@/assets/images/g-600x782.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -360,12 +360,12 @@
             }
           },
           "title3": "NINA",
-          "caption3": "DUO | YES<br>----------------------------<br> TRAVEL  | PLEASE INQUIRE<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "caption3": "``DUO | YES<br>----------------------------<br> TRAVEL  | PLEASE INQUIRE<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"Nina\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/u1-600x899.png",
+              "src": "@PROJECT_PATH@/assets/images/h-600x777.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -383,9 +383,9 @@
               "size": 0
             }
           },
-          "title4": "CLAIRE",
+          "title4": "SAPPHIRE",
           "caption4": "DUO | YES<br>----------------------------<br> TRAVEL  | PLEASE INQUIRE<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Sapphire\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -459,7 +459,7 @@
             "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": 4,
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
@@ -471,7 +471,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/v1-600x884.png",
+              "src": "@PROJECT_PATH@/assets/images/i-600x823.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -489,13 +489,13 @@
               "size": 0
             }
           },
-          "title1": "RACE",
+          "title1": "MARISOL",
           "caption1": "DUO | YES<br>----------------------------<br>TRAVEL | PLEASE INQUIRE<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Marisol\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/g1-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/j-600x780.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -513,13 +513,13 @@
               "size": 0
             }
           },
-          "title2": "YUKI",
+          "title2": "<br><span style=\"font-family: inherit; line-height: 1.1em;\">MONIQUE</span><br>",
           "caption2": "DUO | YES<br>----------------------------<br>TRAVEL | PLEASE INQUIRE<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/w3-600x814.png",
+              "src": "@PROJECT_PATH@/assets/images/k-600x818.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -615,7 +615,8 @@
     "Rates": {
       "settings": {
         "title": "Rates",
-        "meta_descr": "Rates"
+        "meta_descr": "Rates",
+        "order": 3
       },
       "components": [
         {
@@ -814,7 +815,8 @@
     "Contact": {
       "settings": {
         "title": "Contact",
-        "meta_descr": "Contact"
+        "meta_descr": "Contact",
+        "order": 4
       },
       "components": [
         {
@@ -1142,10 +1144,11 @@
         }
       ]
     },
-    "Crystal": {
+    "Annabell": {
       "settings": {
-        "title": "Ctystal",
-        "meta_descr": "Website Maker Description"
+        "title": "Annabell",
+        "meta_descr": "",
+        "order": 5
       },
       "components": [
         {
@@ -1254,7 +1257,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/q1-1400x882.png",
+              "src": "@PROJECT_PATH@/assets/images/a-1400x761.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1273,9 +1276,9 @@
             }
           },
           "headerAlign": "left",
-          "title": "CRYSTAL",
+          "title": "ANNABELL",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "text": "<p>Nationality:Thai<br></p><p>Measurements:36DD-26-36</p><p>Height:5ft 4in - 162cm</p><p>Dress Size:12</p><p>Hair Colour:Dark Brown</p><p>Eye Colour:Brown</p><p>Annabell has experience and a great touch. She looks after your every need and is open minded and understanding. Annabell is also a great Mistress.&nbsp;</p><p>Annabell is naturally stunning with a great figure that you just will not be able to keep your hands off. Curvy and naturally busty Annabell has all the things you need for a great day or night.<br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -1289,20 +1292,20 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/q2-2000x2987-800x1194.png",
-                "image": "@PROJECT_PATH@/assets/images/q2-2000x2987.png",
+                "thumb": "@PROJECT_PATH@/assets/images/a-2000x2729-800x1091.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a-2000x2729.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/q3-2000x2965-800x1186.png",
-                "image": "@PROJECT_PATH@/assets/images/q3-2000x2965.png",
+                "thumb": "@PROJECT_PATH@/assets/images/a-2000x2713-800x1085.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a-2000x2713.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/q4-2000x3012-800x1204.png",
-                "image": "@PROJECT_PATH@/assets/images/q4-2000x3012.png",
+                "thumb": "@PROJECT_PATH@/assets/images/a-2000x2635-800x1054.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a-2000x2635.jpg",
                 "active": true
               }
             ],
@@ -1313,6 +1316,1593 @@
             "showBullets": false
           },
           "_anchor": "gallery1-x",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Christy": {
+      "settings": {
+        "title": "Christy",
+        "meta_descr": "\u001b",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-z",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "HOME",
+              "size": 0,
+              "active": true,
+              "color": "#f412b6",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"HOME\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORONO HONEY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"HOME\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery\">GA\u001bLLERY<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Rates\">RATES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD\\</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f50696"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-10",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/b-1400x1927.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "CHRISTY",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Nationality:Thai</p><p>Measurements:30C-22-32</p><p>Height:5ft - 152cm</p><p>Dress Size:6</p><p>Hair Colour:Brown</p><p>Eye Colour:Dark Brown</p><p><br></p><p>Christy is a sweet, gentle and kind with a little naughtiness. She offers a great GFE experience and massage and will make you feel like you are floating on air.</p><p><br></p><p>Christy &nbsp;also loves to Duo.<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/b-2000x2731-800x1092.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b-2000x2731.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/b-2000x2730-800x1092.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b-2000x2730.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/b-2000x2746-800x1098.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b-2000x2746.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-11",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Reena": {
+      "settings": {
+        "title": "Reena",
+        "meta_descr": "\u001b",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-12",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "HOME",
+              "size": 0,
+              "active": true,
+              "color": "#f412b6",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"HOME\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORONO HONEY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"HOME\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery\">GA\u001bLLERY<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Rates\">RATES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD\\</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f50696"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-13",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/c-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "REENA",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Nationality:Thai<br></p><p>Measurements:32B-24-33</p><p>Height:5ft 3in - 160cm</p><p>Hair Colour:Brown</p><p>Eye Colour:Light Brown</p><p><br>After meeting Reena we can say that her photos do not do her justice. She is a sweet very natural looking girl with great English and very friendly.</p><p>Reena is a qualified massage therapist so can give a great Thai and also Aroma Massage to de-stress you.</p><p>Reena is a GFE specialist who is kind patient and very attentive with a no rush attitude. We are sure she will be very popular</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/c-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/c-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c-1-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/c-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c-2-2000x3000.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-14",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Mia": {
+      "settings": {
+        "title": "Mia",
+        "meta_descr": "\u001b",
+        "order": 8
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-16",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "HOME",
+              "size": 0,
+              "active": true,
+              "color": "#f412b6",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"HOME\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORONO HONEY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"HOME\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery\">GA\u001bLLERY<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Rates\">RATES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD\\</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f50696"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-17",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/d-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "<p>MIA &nbsp; &nbsp;</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mia</p><p>Name:Mia</p><p>Age:29</p><p>Nationality: Mixed</p><p>Measurements:34C-24-35</p><p>Height: 170cm</p><p>Hair Colour:Black<br></p><p>Eye Colour:Dark Brown</p><p><br>Mia is a hot mixed race girl a rare Indian mix&nbsp;</p><p>Mia has perfect English she is well educated and friendly making her a great companion for those vip ocassions whether out on business or alone in private.<br></p><p>Mia loves to meet discrening gentleman offering a genuine Girlfriend experience and no rush time.<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/d-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/d-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/d-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/d-1-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/d-2000x2856-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/d-2000x2856.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-18",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Kathy": {
+      "settings": {
+        "title": "Kathy",
+        "meta_descr": "\u001b",
+        "order": 9
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-19",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "HOME",
+              "size": 0,
+              "active": true,
+              "color": "#f412b6",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"HOME\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORONO HONEY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"HOME\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery\">GA\u001bLLERY<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Rates\">RATES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD\\</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f50696"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1a",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/e-1400x1827.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "<p>KATHY &nbsp; &nbsp;</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Nationality:Vietnamese<br></p><p>Measurements:34B-23-34</p><p>Height:5ft 5in - 165cm</p><p>Hair Colour:Black<br></p><p>Eye Colour:Dark Brown<br><br></p><p>Diana is a sexy playful girl from Vietnam. She is touring in GTA and looking forward to having a whole world of fun.</p><p>Diana is well educated funny and has good English. She is a great companion whatever the occasion.<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/e-2000x2607-800x1042.jpg",
+                "image": "@PROJECT_PATH@/assets/images/e-2000x2607.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/e-2000x2616-800x1046.jpg",
+                "image": "@PROJECT_PATH@/assets/images/e-2000x2616.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/e-2000x2607-800x1042.jpg",
+                "image": "@PROJECT_PATH@/assets/images/e-2000x2607.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1b",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Leah": {
+      "settings": {
+        "title": "Leah",
+        "meta_descr": "\u001b",
+        "order": 11
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1c",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "HOME",
+              "size": 0,
+              "active": true,
+              "color": "#f412b6",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"HOME\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORONO HONEY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"HOME\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery\">GA\u001bLLERY<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Rates\">RATES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD\\</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f50696"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1d",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/f-1400x824.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "LEAH",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Nationality:Thai</p><p>Measurements:32D-23-33</p><p>Height:5ft 3in - 160cm</p><p>Hair Colour:Light Brown</p><p>Eye Colour:Dark Brown</p><p><br></p><p>Leah is a girl who loves to be fun with a bit of a wild side. Seductive and slim and can be quite a night owl.</p><p>Leah speaks perfect English and is an ideal companion for either an overnight party in town, Dinner date or a more private affair!<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/f-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f-2000x2750.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/f-2000x2748-800x1099.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f-2000x2748.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/f-2000x2620-800x1048.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f-2000x2620.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1e",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Sapphire": {
+      "settings": {
+        "title": "Sapphire",
+        "meta_descr": "\u001b",
+        "order": 12
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1f",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "HOME",
+              "size": 0,
+              "active": true,
+              "color": "#f412b6",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"HOME\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORONO HONEY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"HOME\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery\">GA\u001bLLERY<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Rates\">RATES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD\\</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f50696"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1g",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/h-1400x1911.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "SAPPHIRE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Nationality:Thai</p><p>Measurements:34D-24-34</p><p>Height:5ft 3in - 160cm</p><p>Hair Colour:Brown</p><p>Eye Colour:Brown</p><p><br></p><p>Sapphire is a sexy girl She is fun and offers a real GFE experience and has an easygoing and friendly nature.</p><p>Sapphire has great feedback and many returning&nbsp;</p><p>customers!!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/h-2000x2731-800x1092.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h-2000x2731.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/h-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h-2000x2750.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/h-2000x2591-800x1036.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h-2000x2591.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1h",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Marisol": {
+      "settings": {
+        "title": "Marisol",
+        "meta_descr": "\u001b",
+        "order": 13
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1i",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "HOME",
+              "size": 0,
+              "active": true,
+              "color": "#f412b6",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"HOME\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORONO HONEY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"HOME\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery\">GA\u001bLLERY<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Rates\">RATES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD\\</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f50696"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1j",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/i-1400x1901.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "MARISOL",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Nationality: Italian/Thai</p><p>Measurements:36D-24-34</p><p>Height:5ft 7in - 170cm</p><p>Hair Colour:Dark Brown</p><p>Eye Colour:Green</p><p><br></p><p>Marisol is a hot Thai/Italian girl located in the heart of GTA. <br>An experienced companion with a magic touch Marisol is not only well educated but knows how to let her hair down. GFE with a sexy twist!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/i-2000x2743-800x1097.jpg",
+                "image": "@PROJECT_PATH@/assets/images/i-2000x2743.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/i-2000x2736-800x1094.jpg",
+                "image": "@PROJECT_PATH@/assets/images/i-2000x2736.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/i-1-2000x2743-800x1097.jpg",
+                "image": "@PROJECT_PATH@/assets/images/i-1-2000x2743.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1k",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Nina": {
+      "settings": {
+        "title": "Nina",
+        "meta_descr": "\u001b",
+        "order": 10
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1l",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "HOME",
+              "size": 0,
+              "active": true,
+              "color": "#f412b6",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"HOME\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORONO HONEY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"HOME\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery\">GA\u001bLLERY<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Rates\">RATES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD\\</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f50696"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1m",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/g-1400x1840.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "NINA",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Nationality:Oriental</p><p>Measurements:34C-24-34</p><p>Height:5ft 4in - 162cm</p><p>Hair Colour:Light Brown</p><p>Eye Colour:Dark Brown</p><p><br></p><p>Nina is a hot slender Oriental girl with long legs and stunning curves.</p><p>GFE with sexy twist and also a great massage too. There is really nothing that you cannot like about Kate</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/g-2000x2727-800x1090.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g-2000x2727.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/g-2000x2549-800x1019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g-2000x2549.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/g-2000x2607-800x1042.jpg",
+                "image": "@PROJECT_PATH@/assets/images/g-2000x2607.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1n",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Nicole": {
+      "settings": {
+        "title": "Nicole",
+        "meta_descr": "\u001b",
+        "order": 13
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1o",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "HOME",
+              "size": 0,
+              "active": true,
+              "color": "#f412b6",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"HOME\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORONO HONEY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"HOME\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery\">GA\u001bLLERY<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Rates\">RATES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"CONTACT\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD\\</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f50696"
+            },
+            ".mbr-article DIV": {
+              "color": "#f50696"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1p",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/k-1400x1910.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "NICOLE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><br></p><div><br></div><div>Nationality: Phillipine&nbsp;<br>Height\t5'</div><div>Hari: &nbsp;Brown<br>Eyes\tBrown</div><div>Stats\t34D-26-39<br></div><div><br></div><div><div><p>Nicole may be a petite little pocket rocket but she is full of energy and eager to please.</p><p>Nicole is a sweet and sensual experienced GFE escort who loves to take the lead and make your wildest dreams her sweetest reality and if the connection is right, that sweet GFE will turn into a naughty PSE.</p><p>Nicole is very friendly and inviting and very easy to talk to and be around so extended meetings or public outings with her will never be uneasy or unsatisfying and time with her will just fly no matter where your date is held.</p><p><br></p></div></div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/k-2000x1118-800x447.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k-2000x1118.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/k-2000x1102-800x440.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k-2000x1102.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/k-2000x1101-800x440.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k-2000x1101.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1q",
           "articleLayout": false
         }
       ]
